@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Beaver Builder Breadcrumb\n"
+"POT-Creation-Date: 2016-05-04 14:30+0200\n"
+"PO-Revision-Date: 2016-05-04 14:34+0200\n"
+"Last-Translator: Thierry Pigot <contact@thierry-pigot.fr>\n"
+"Language-Team: Thierry Pigot <contact@thierry-pigot.fr>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/frontend.php:7
+msgid "Please, select a layout before"
+msgstr "Merci de sélectionner un gabarit"
+
+#: includes/tp-bb-layout.php:1
+msgid "Layouts"
+msgstr "Gabarits"
+
+#: includes/tp-bb-layout.php:1
+msgid "Use layout as module"
+msgstr "Utiliser les gabarits comme modules"
+
+#: includes/tp-bb-layout.php:1
+msgid "Advanced Modules"
+msgstr "Extensions avancées"
+
+msgid "&mdash; Choose a layout &mdash;"
+msgstr "&mdash; Choisir un gabarit &mdash;"
+
+msgid "Layout"
+msgstr "Gabarit"
